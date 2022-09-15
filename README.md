@@ -1,6 +1,7 @@
 # **Ioannis Philippides - Business Analyst**
 
 Hi there 👋,
+<br/>
 I am a Business analysis enthusiast with solid background in data analytics and economics. I have more than 5 years working experience in Marketing, Insurance, Management Consulting, E-Commerce and Food Industry, mainly in managerial positions. Additional 2 years working experience in trade and sales, both retail and wholesale. I hold a B.Sc. in Agricultural Economics and an M.Sc. in Business Analytics. Furthermore, I obtain Data Science BootCamp Certificate with Le Wagon Berlin - Batch #954.
 
 ## Tech Stacks
