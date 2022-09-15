@@ -30,6 +30,7 @@ I am a Business analysis enthusiast with solid background in data analytics and 
 </div>
 <br/>
 <br/>
+
 [LinkedIn](https://www.linkedin.com/in/ioannisphilippides/) • [Website](https://morganfula.com/) • [Twitter](https://twitter.com/ioannisphilipp2) • [Contact Me](mailto:io.philippides@gmail.com)
 [![Ioannis' github stats](https://github-readme-stats.vercel.app/api?username=ioannisphilippides&count_private=true&show_icons=true&theme=nightowl)]
 (https://github.com/ioannisphilippides/github-readme-stats)
