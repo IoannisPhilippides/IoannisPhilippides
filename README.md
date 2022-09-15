@@ -1,4 +1,4 @@
-#Ioannis Philippides - Business Analyst
+# **Ioannis Philippides - Business Analyst**
 
 Hi there 👋,
 I am a Business analysis enthusiast with solid background in data analytics and economics. I have more than 5 years working experience in Marketing, Insurance, Management Consulting, E-Commerce and Food Industry, mainly in managerial positions. Additional 2 years working experience in trade and sales, both retail and wholesale. I hold a B.Sc. in Agricultural Economics and an M.Sc. in Business Analytics. Furthermore, I obtain Data Science BootCamp Certificate with Le Wagon Berlin - Batch #954.
@@ -31,6 +31,7 @@ I am a Business analysis enthusiast with solid background in data analytics and 
 <br/>
 [LinkedIn](https://www.linkedin.com/in/ioannisphilippides/) • [Website](https://morganfula.com/) • [Twitter](https://twitter.com/ioannisphilipp2) • [Contact Me](mailto:io.philippides@gmail.com)
 [![Ioannis' github stats](https://github-readme-stats.vercel.app/api?username=ioannisphilippides&count_private=true&show_icons=true&theme=nightowl)]
+(https://github.com/ioannisphilippides/github-readme-stats)
 <img align="right" width="250" src="https://res.cloudinary.com/dlw3ahzso/image/upload/v1663226838/d7c9f14bc022bd9f313c4e8bb694e22d9e1beb27a6dcc0abcd9d38adee4d9eb5.0_nlqzfy.gif">
 
 
